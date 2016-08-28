@@ -1,8 +1,23 @@
 .logo-intro {
   width: 300px;
-  height: 300px;
+  height: auto;
 }
 
 .pyday-web {
   height: 45px;
+}
+
+.oro {
+  max-height: 200px;
+  max-width: 600px;
+}
+
+.plata {
+  max-height: 150px;
+  max-width: 400px;
+}
+
+.bronce {
+  max-height: 100px;
+  max-width: 300px;
 }
